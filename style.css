@@ -69,3 +69,9 @@ h1 {
         padding: 20px 40px;
     }
 }
+
+/* style.css */
+/* Добавьте это правило для мобильных устройств */
+#clickButton {
+    touch-action: manipulation;
+}
